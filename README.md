@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Gustavo Mazzure! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+new+Roman&size=25&duration=5000&pause=1000&center=true&vCenter=true&width=600&height=100&lines=FullStack+Developer%2C;Graduated+Computer+Engineer%2C;Web+development%2C;Active+Learn%2FResearch." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+new+Roman&size=25&duration=5000&pause=1000&center=true&vCenter=true&width=600&height=50&lines=FullStack+Developer%2C;Graduated+Computer+Engineer%2C;Web+development%2C;Active+Learn%2FResearch." alt="Typing SVG" /></a>
 </p>
 
 <br>
