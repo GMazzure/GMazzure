@@ -1,15 +1,11 @@
-
-<h1 align="center"><b>Hi , I'm Gustavo Mazzure! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 > Github WIP
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <p align="center">  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+new+Roman&size=25&duration=5000&pause=1000&center=true&vCenter=true&width=600&height=50&lines=FullStack+Developer%2C;Graduated+Computer+Engineer%2C;Web+development%2C;Active+Learn%2FResearch." alt="Typing SVG" /></a>
 </p>
 
-<br>
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> 
    <img align="right" src="https://github.com/GMazzure/GMazzure/assets/135989764/c0cce959-93a3-4019-94ff-a9b992e526b8" width = 180px>
@@ -31,6 +27,7 @@ class Gustavo(FullStackDeveloper):
 if _name_ == '_main_':
   me = Gustavo()
 ```
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
