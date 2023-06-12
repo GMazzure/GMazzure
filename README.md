@@ -37,7 +37,7 @@ if _name_ == '_main_':
 - A passionate Self-taught Fullstack Developer;
 - Experience Modelling Data Structures and System Architectures from scratch;
 - Currently learning Artificial Intellgence by self;
-- Pretending to learn about Game Development and Game Design;
+- Aspiring to learn about Game Development and Game Design;
 - Mentoring   
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
