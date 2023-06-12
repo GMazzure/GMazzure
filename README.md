@@ -50,7 +50,7 @@
    ![Angular](https://img.shields.io/badge/angular%20-%23d6002f.svg?style=for-the-badge&logo=angular&logoColor=white)
    ![Django](https://img.shields.io/badge/Django%20-%23003a28.svg?style=for-the-badge&logo=Django&logoColor=white)
    ![laravel](https://img.shields.io/badge/laravel%20-%23d9453e.svg?style=for-the-badge&logo=laravel&logoColor=white)
-   ![asp.net](https://img.shields.io/badge/asp.net%20-%233865ae.svg?style=for-the-badge&logo=asp.net&logoColor=white) 
+   ![asp.net](https://img.shields.io/badge/asp.net%20-%233865ae.svg?style=for-the-badge&logo=asp.net&logoColor=white)
 
 <br>
 
@@ -63,11 +63,22 @@
 
 - **Softwares and Tools**:
 
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![Docker](https://img.shields.io/badge/Docker-%232391e6.svg?style=for-the-badge&logo=Docker&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)    
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![gitlab](https://img.shields.io/badge/gitlab-%23f76c0d?style=for-the-badge&logo=gitlab&logoColor=white)
+
+<br>
+	
+- **Databases**:
+
+    ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=white)
+    ![Mysql](https://img.shields.io/badge/Mysql-%23000000.svg?style=for-the-badge&logo=Mysql&logoColor=white)
+    ![oracle](https://img.shields.io/badge/oracle-%23000000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+    ![redis](https://img.shields.io/badge/redis-%23000000.svg?style=for-the-badge&logo=redis&logoColor=white)
+    ![influxDB](https://img.shields.io/badge/influxDB-%23000000.svg?style=for-the-badge&logo=influxDB&logoColor=white)
+    ![Postgresql](https://img.shields.io/badge/Postgresql-000000.svg?style=for-the-badge&logo=Postgresql&logoColor=white)
 
 <br>
 
