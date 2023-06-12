@@ -12,7 +12,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> 
-   <img align="right" src="https://github.com/GMazzure/GMazzure/assets/135989764/c0cce959-93a3-4019-94ff-a9b992e526b8" width = 200px>
+   <img align="right" src="https://github.com/GMazzure/GMazzure/assets/135989764/c0cce959-93a3-4019-94ff-a9b992e526b8" width = 180px>
 </picture>
 
 
