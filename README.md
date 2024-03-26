@@ -7,9 +7,7 @@
 </p>
 
 
-<picture> 
-   <img align="right" src="https://github.com/GMazzure/GMazzure/assets/135989764/c0cce959-93a3-4019-94ff-a9b992e526b8" width = 180px>
-</picture>
+
 
 
 ```python
